@@ -18,9 +18,7 @@ A modern, beautiful, and highly interactive table app built with Next.js, React,
 
 ## 🚀 Demo
 
-> **Add a screenshot or GIF here!**
->
-> ![Demo Preview](public/demo-preview.png)
+https://github.com/user-attachments/assets/13b3074e-f26d-4173-9aa0-7eb40998840f
 
 ---
 
